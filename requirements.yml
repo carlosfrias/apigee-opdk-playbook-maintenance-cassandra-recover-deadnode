@@ -1,0 +1,17 @@
+---
+- src: https://github.com/carlosfrias/apigee-opdk-setup-default-settings.git
+
+- src: https://github.com/carlosfrias/apigee-opdk-cassandra-deadnode-recovery-config.git
+
+- src: https://github.com/carlosfrias/apigee-opdk-cassandra-deadnode-recovery-complete.git
+
+- src: https://github.com/carlosfrias/apigee-opdk-cassandra-shutdown-preparation.git
+
+- src: https://github.com/carlosfrias/apigee-opdk-stop-components.git
+
+- src: https://github.com/carlosfrias/apigee-opdk-start-components.git
+
+- src: https://github.com/carlosfrias/apigee-opdk-cache-update.git
+
+- src: https://github.com/carlosfrias/apigee-fetch-files.git
+
